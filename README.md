@@ -18,3 +18,5 @@
 >   - https://seing.tistory.com/67
 > - Matrix Factorization 논문
 >   - https://greeksharifa.github.io/machine_learning/2019/12/20/Matrix-Factorization/
+> - Matrix Factorization (Model-based CF)
+>   - https://analytics4everything.tistory.com/104
