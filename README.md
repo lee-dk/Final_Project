@@ -16,3 +16,5 @@
 >   - http://hoondongkim.blogspot.com/2019/03/recommendation-trend.html
 > - Matrix Factorization
 >   - https://seing.tistory.com/67
+> - Matrix Factorization 논문
+>   - https://greeksharifa.github.io/machine_learning/2019/12/20/Matrix-Factorization/
