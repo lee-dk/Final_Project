@@ -14,3 +14,5 @@
 >   - https://yeomko.tistory.com/6
 > - 추천 시스템 알고리즘 트렌드
 >   - http://hoondongkim.blogspot.com/2019/03/recommendation-trend.html
+> - Matrix Factorization
+>   - https://seing.tistory.com/67
